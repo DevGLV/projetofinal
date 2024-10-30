@@ -43,7 +43,7 @@ Uma vez que o desenvolvimento esteja mais avançado, o processo de instalação 
 
     ```plaintext
     DATABASE_URL=sqlite:./database.sqlite
-    JWT_SECRET=sua_chave_secreta
+    JWT_SECRET=mySuperSecretKey123!
     PORT=3000
     ```
 
